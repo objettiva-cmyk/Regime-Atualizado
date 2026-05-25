@@ -1,0 +1,6 @@
+ID_REGRA_FISCAL;DESCRICAO_REGRA;FONTE_NORMA;ARTIGO;PARAGRAFO;INCISO;TIPO_REGRA;RESPONSAVEL_APROVACAO
+RIR70_ART308_70_MAIOR_PRECO;Custo arbitrado em 70% do maior preço de venda;Decreto 9.580/2018 - RIR/2018;308;;II;REGRA_LEGAL;Responsavel tecnico MC4
+PREMISSA_EXCLUSAO_ICMS_ST_FCP_ST;Tratamento informativo de ICMS-ST/FCP-ST quando parametrizado;Premissa tecnica MC4 sujeita a validacao juridica e documental;;;;PREMISSA_TECNICA;Responsavel tecnico MC4
+CRITERIO_SUBSIDIARIO_PRECO_MES_ANTERIOR;Uso de preço de competência anterior como critério subsidiário de valoração;Nao substitui a regra legal do maior preço do proprio produto no periodo;;;;PREMISSA_OPERACIONAL;Analista fiscal responsavel
+CRITERIO_SUBSIDIARIO_OUTRO_CNPJ_GRUPO;Uso de preço de outro CNPJ do grupo apenas com justificativa de comparabilidade;Nao substitui a regra legal do maior preço do proprio produto no periodo;;;;PREMISSA_OPERACIONAL;Analista fiscal responsavel
+CRITERIO_SUBSIDIARIO_PRODUTO_SIMILAR;Uso de produto similar apenas com matriz homologada e justificativa de comparabilidade;Nao substitui a regra legal do maior preço do proprio produto no periodo;;;;PREMISSA_OPERACIONAL;Analista fiscal responsavel

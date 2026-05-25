@@ -1,0 +1,9 @@
+TERMO DE USO - MOTOR FISCAL RIR70 BY MC4
+
+1. O Motor Fiscal RIR70 by MC4 e ferramenta proprietaria da MC4 CONTABILIDADE E GESTAO DE NEGOCIOS, CNPJ 09.944.432/0001-25.
+2. A licenca e limitada ao uso interno do cliente autorizado no arquivo de configuracao.
+3. E proibida a copia, distribuicao, sublicenciamento, engenharia reversa, remocao de marca ou uso por terceiros sem autorizacao expressa da MC4.
+4. Os dados, documentos fiscais, XMLs, inventarios e outputs especificos pertencem ao cliente licenciado.
+5. O framework, scripts, layout, metodologia, validacoes e templates pertencem a MC4.
+6. Qualquer alteracao no pacote pode gerar violacao de integridade e bloquear a execucao em modo Producao.
+7. O resultado gerado pelo motor exige revisao fiscal final do responsavel tecnico do cliente ou da consultoria contratada.

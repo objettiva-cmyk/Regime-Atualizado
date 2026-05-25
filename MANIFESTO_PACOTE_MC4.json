@@ -1,0 +1,113 @@
+{
+  "algoritmo_assinatura": "Ed25519",
+  "algoritmo_hash": "SHA-256",
+  "build_mc4": "v1.3.28-producao-forense",
+  "produto": "Motor Fiscal RIR70 by MC4",
+  "proprietario": "MC4 CONTABILIDADE E GESTAO DE NEGOCIOS",
+  "proprietario_cnpj": "09.944.432/0001-25",
+  "cliente_licenciado": "101 BRASIL INDUSTRIA DE BEBIDAS LTDA",
+  "modo_execucao": "Producao",
+  "data_manifesto": "2026-05-24 19:03:43",
+  "arquivos": [
+    {
+      "nome": "Executar_Motor_RIR70_MC4.bat",
+      "sha256": "c0913f6657c2fc9048e16e34f42778fbd959b1488118a16a4101c5805c02d490",
+      "tamanho_bytes": 3059
+    },
+    {
+      "nome": "Abrir_Sistema_RIR70_MC4.bat",
+      "sha256": "1fc2a727394fadc801f996024c7972461c96772ee6383e0f5227932958d2f9f9",
+      "tamanho_bytes": 858
+    },
+    {
+      "nome": "motor_arbitramento.py",
+      "sha256": "7b962e5ed69bc589e3482408baa64ee41b4392cccd4cc56f0aa6b4b787434595",
+      "tamanho_bytes": 403035
+    },
+    {
+      "nome": "layout_premium_mc4.py",
+      "sha256": "277d4244cde7bebcacda8b03db28af7139e79d0dce211bd2b56d7f7ce56fa664",
+      "tamanho_bytes": 49804
+    },
+    {
+      "nome": "sistema_rir70_web.py",
+      "sha256": "572630e07b0728269273bfc5972baadcac37c9877d6a87ac22b8eeaa24267254",
+      "tamanho_bytes": 51371
+    },
+    {
+      "nome": "config_arbitramento_rir70.json",
+      "sha256": "d461506b4835d373d9724c1c4e2dde2ddb5e3bb0c803339e5681a6f856e3707c",
+      "tamanho_bytes": 17054
+    },
+    {
+      "nome": "VERSAO_MC4.json",
+      "sha256": "a1960066173b3170442d08b17303eb1220a22ce668ce2db36281f11bc133b1da",
+      "tamanho_bytes": 555
+    },
+    {
+      "nome": "REGRA_LEGAL_MAP.csv",
+      "sha256": "161de9ed0555829b8cef1072f1fef981047914905e937209f59e75a5b0800a91",
+      "tamanho_bytes": 1196
+    },
+    {
+      "nome": "requirements.txt",
+      "sha256": "020408002490b3b4163532d129236bf6fdadb9acbac2ac68d6a7ada87258b56b",
+      "tamanho_bytes": 105
+    },
+    {
+      "nome": "LICENCA_MC4.txt",
+      "sha256": "d1ced98bbdf255561776147e3a42e70b4038e5eb241bca55b8871ea4e47736e7",
+      "tamanho_bytes": 842
+    },
+    {
+      "nome": "TERMO_USO_MC4.txt",
+      "sha256": "01c1473ee9cb0c463647f360c68b09dee90e637e724e6ab318570868e403ac04",
+      "tamanho_bytes": 825
+    },
+    {
+      "nome": "MC4_PUBLIC_KEY.pem",
+      "sha256": "b68017bf528677df1a0dd7caa28df3d47ac9d9201a4d7215bb308bb0be41f7fc",
+      "tamanho_bytes": 113
+    },
+    {
+      "nome": "input/auxiliares/MAPA_SIMILARIDADE_PRODUTO.xlsx",
+      "sha256": "9989e26fb8b475b5e2134d5da94115ff8465658ffc18bbdb24875ba3e49ab663",
+      "tamanho_bytes": 103716
+    },
+    {
+      "nome": "input/auxiliares/MATRIZ_CADASTRO_PRODUTO_RIR70_SIMILARIDADE.xlsx",
+      "sha256": "89f31be6211b89b3f5ce4382d15220bc19e1e0d16bc04dc9010b695449da1f5e",
+      "tamanho_bytes": 209889
+    },
+    {
+      "nome": "input/auxiliares/precos_referencia.xlsx",
+      "sha256": "a4e0ba35c09771187036f6c45ab63503c37deaa3c67fc3d5690b6041de8b1f83",
+      "tamanho_bytes": 26700
+    },
+    {
+      "nome": "documentacao_mc4/GUIA_OPERACIONAL_PRODUCAO_MC4.txt",
+      "sha256": "7b4e537f8ae0584bdb4343c137ee6266ea5297079ea78256116600bf8c1e1776",
+      "tamanho_bytes": 504
+    },
+    {
+      "nome": "documentacao_mc4/ESTRUTURA_PASTAS_MC4.txt",
+      "sha256": "e26e5f5ecd4532289239b9f48dd6bb9d25c3d075cdc701be9ab8a5dc1c7342f1",
+      "tamanho_bytes": 649
+    },
+    {
+      "nome": "documentacao_mc4/POLITICA_INTEGRIDADE_MC4.txt",
+      "sha256": "31f2d5cf9bc465c836ae4a2bc4c1e6e62c6a7172f6bb659e4e3eca6246a6c3ea",
+      "tamanho_bytes": 469
+    },
+    {
+      "nome": "documentacao_mc4/DICIONARIO_CAMPOS_RIR70.xlsx",
+      "sha256": "590d52d5b909ec1ba03b865693dc9d4d6eb84c2dea5a89e915c8becc184f2176",
+      "tamanho_bytes": 4855
+    },
+    {
+      "nome": "documentacao_mc4/VALIDACAO_PACOTE_PRODUCAO_MC4.txt",
+      "sha256": "95d66bae9f42a2b11688d20513f96f69d02e171993df53afbe2a569acc24f946",
+      "tamanho_bytes": 1050
+    }
+  ]
+}

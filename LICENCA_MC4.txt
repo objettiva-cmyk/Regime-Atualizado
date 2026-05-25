@@ -1,0 +1,19 @@
+MOTOR FISCAL RIR70 BY MC4
+
+Proprietario: MC4 CONTABILIDADE E GESTAO DE NEGOCIOS
+CNPJ: 09.944.432/0001-25
+Produto: Motor Fiscal RIR70 by MC4
+Cliente licenciado: 101 BRASIL INDUSTRIA DE BEBIDAS LTDA
+Tipo de licenca: uso interno, nao exclusivo, intransferivel.
+
+Esta ferramenta foi desenvolvida pela MC4 para apoio tecnico em auditoria fiscal,
+arbitramento de custo e rastreabilidade de calculo.
+
+O uso deste pacote e autorizado exclusivamente ao cliente licenciado indicado no
+arquivo config_arbitramento_rir70.json, vedada a copia, distribuicao,
+sublicenciamento, remocao de identificacao proprietaria ou utilizacao para
+terceiros sem autorizacao expressa da MC4.
+
+Os dados fiscais processados pertencem ao cliente. A metodologia, scripts,
+templates, layout, regras de validacao, fluxos de auditoria e framework
+computacional pertencem a MC4.

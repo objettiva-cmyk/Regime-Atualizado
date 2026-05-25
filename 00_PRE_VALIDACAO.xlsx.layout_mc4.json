@@ -1,0 +1,122 @@
+{
+  "layout_mc4": "OK",
+  "versao_layout": "1.3.28-producao-forense",
+  "perfil": "pre_validacao",
+  "layout_nivel": "auditoria",
+  "arquivo_entrada": "C:\\Users\\contabil\\Documents\\CUSTO_ARBITRADO_MC4\\output\\00_PRE_VALIDACAO.xlsx",
+  "arquivo_saida": "C:\\Users\\contabil\\Documents\\CUSTO_ARBITRADO_MC4\\output\\00_PRE_VALIDACAO.xlsx",
+  "sha256_antes_layout": "ba62b91e85d9976800a44e1f2e088f18e73fa4c99863ca5e6c352b508c13ae49",
+  "sha256_depois_layout": "54680340c23b59c8ce970a17e8c87675afd85b5c9f0581831d89c841ad75a4d1",
+  "aplicado_em": "2026-05-24T21:41:36",
+  "segundos_total": 5.14,
+  "abas": [
+    {
+      "aba": "CAPA",
+      "linhas": 6,
+      "colunas": 2,
+      "modo": "auditoria",
+      "linhas_estilizadas": 6,
+      "segundos": 0.001,
+      "cabecalhos_amigaveis": {
+        "INDICADOR": "Indicador",
+        "VALOR": "Valor"
+      },
+      "ajustes_capa": {
+        "aplicado": true,
+        "alteracoes": [
+          "B2: alinhamento vertical centro",
+          "B17: alinhamento vertical centro",
+          "B9: quebrar texto automaticamente",
+          "B18: quebrar texto automaticamente",
+          "B70: quebrar texto automaticamente",
+          "B65: remover negrito",
+          "B66: remover negrito",
+          "B67: remover negrito",
+          "B68: remover negrito"
+        ]
+      },
+      "ajustes_movimento_validado": {
+        "aplicado": false
+      },
+      "ajustes_arbitramento": {
+        "aplicado": false
+      },
+      "ajustes_custo_cmv": {
+        "aplicado": false
+      },
+      "ajustes_pendencias": {
+        "aplicado": false
+      },
+      "ajustes_fontes_processadas": {
+        "aplicado": false
+      }
+    },
+    {
+      "aba": "FONTES_ANALISADAS",
+      "linhas": 5244,
+      "colunas": 9,
+      "modo": "auditoria",
+      "linhas_estilizadas": 5244,
+      "segundos": 4.406,
+      "cabecalhos_amigaveis": {
+        "ARQUIVO": "Arquivo",
+        "TIPO_FONTE": "Tipo Fonte",
+        "STATUS_PRE_VALIDACAO": "Status Pré-Validação",
+        "DETALHE": "Detalhe",
+        "CHAVE_NFE": "Chave NF-e",
+        "DATA_EMISSAO": "Data Emissão",
+        "ITENS": "Itens",
+        "SHA256": "Hash Arquivo",
+        "SHA256_CONTAINER": "Hash Pacote"
+      },
+      "ajustes_capa": {
+        "aplicado": false
+      },
+      "ajustes_movimento_validado": {
+        "aplicado": false
+      },
+      "ajustes_arbitramento": {
+        "aplicado": false
+      },
+      "ajustes_custo_cmv": {
+        "aplicado": false
+      },
+      "ajustes_pendencias": {
+        "aplicado": false
+      },
+      "ajustes_fontes_processadas": {
+        "aplicado": false
+      }
+    },
+    {
+      "aba": "INCONSISTENCIAS",
+      "linhas": 1,
+      "colunas": 1,
+      "modo": "auditoria",
+      "linhas_estilizadas": 1,
+      "segundos": 0.0,
+      "cabecalhos_amigaveis": {
+        "": ""
+      },
+      "ajustes_capa": {
+        "aplicado": false
+      },
+      "ajustes_movimento_validado": {
+        "aplicado": false
+      },
+      "ajustes_arbitramento": {
+        "aplicado": false
+      },
+      "ajustes_custo_cmv": {
+        "aplicado": false
+      },
+      "ajustes_pendencias": {
+        "aplicado": false
+      },
+      "ajustes_fontes_processadas": {
+        "aplicado": false
+      }
+    }
+  ],
+  "observacao": "Layout performance aplicado. Ajustes especiais na CAPA, MOVIMENTO_VALIDADO, ARBITRAMENTO, CUSTO_CMV, PENDENCIAS e FONTES_PROCESSADAS para modo executivo/auditoria."
+}
